@@ -1,0 +1,143 @@
+.main{
+     height: 75vh;
+    width: 100wh;
+    background-color: lightcyan;
+    text-align: center;
+    margin: 90px;
+    padding: 20px;
+    font-size: 20px;
+}
+.head{
+    flex: 1;
+    display: flex;
+    padding: 10px;
+   margin-top: 0px;
+    gap: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 1px 0px rgb(169, 168, 168);
+}
+
+.a{
+    background-color: grey;
+    height: 5vh;
+    width: 10vw;
+    border-radius: 6px;
+    margin-right: 720px;
+}
+.b{
+    background-color: grey;
+    height: 3vh;
+    width: 10vw;
+    border-radius: 6px;
+}
+.c{
+    background-color: grey;
+    height: 3vh;
+    width: 10vw;
+    border-radius: 6px;
+}
+.d{
+    background-color: grey;
+    height: 3vh;
+    width: 10vw;
+    border-radius: 6px;
+    flex-direction: column;
+}
+.e{
+    background-color: grey;
+    height: 3vh;
+    width: 10vw;
+    border-radius: 6px;
+}
+.second{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 10px;
+    
+}
+.aside{
+   background-color: grey;
+   flex-direction:row;
+    flex: 2;
+    padding: 70px;
+    height: 160px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 1px 1px rgb(169, 168, 168);
+    
+}
+.a1{
+    background-color: white;
+    height: 2vh;
+    width: 10vw;
+    border-radius: 6px;
+   
+}
+.b1{
+     background-color: white;
+    height: 2vh;
+    width: 10vw;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+.c1{
+     background-color: white;
+    height: 2vh;
+    width: 10vw;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+.img1{
+    background-color: grey;
+    height: 30vh;
+    width: 57vw;
+    flex-direction:column;
+    border-radius: 10px;
+    box-shadow: 0px 0px 1px 1px rgb(169, 168, 168);
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    gap: 20px;
+}
+.img2{
+    background-color: grey;
+  height: 18vh;
+    width: 18vw;
+    flex-direction:column;
+    margin-top: 10px;
+     border-radius: 10px;
+    box-shadow: 0px 0px 1px 1px rgb(169, 168, 168);
+}
+.img3{
+    background-color: grey;
+    height: 18vh;
+    width: 18vw;
+    flex-direction:column;
+    margin-top: 10px;
+     border-radius: 10px;
+    box-shadow: 0px 0px 1px 1px rgb(169, 168, 168);
+}
+.img4{
+    background-color: grey;
+     height: 18vh;
+    width: 18vw;
+    flex-direction:column;
+    margin-top: 10px;
+     border-radius: 10px;
+    box-shadow: 0px 0px 1px 1px rgb(169, 168, 168);
+}
+
+
+.foot{
+    flex-direction: row;
+    flex: 6;
+    background-color: grey;
+    width: 80vw;
+    height: 7vh;
+    margin-top: 10px;
+     border-radius: 10px;
+    box-shadow: 0px 0px 1px 1px rgb(169, 168, 168);
+}

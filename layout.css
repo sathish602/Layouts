@@ -1,0 +1,58 @@
+.main{
+    height: 80vh;
+    width: 80wh;
+    background-color: lightpink;
+    text-align: center;
+    margin: 90px;
+    padding: 20px;
+    font-size: 20px;
+}
+.head{
+    flex: 10;
+    background-color: lightblue;
+    flex-direction: column;
+    padding: 30px;
+    
+}
+.second{
+    display: flex;
+    overflow: hidden;
+}
+.aside{
+    background-color: aqua;
+    flex-direction: column;
+    flex: 1;
+    padding: 100px;
+     margin-top: 20px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    align-content: center;
+}
+.third{
+    background-color: coral;
+    flex: 8;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+.img{
+    flex-direction: column;
+    align-content: center;
+    background-color: grey;
+    display: inline-block;
+    height: 200px;
+    width: 180px;
+   align-items: center;
+    margin: 20px;
+   
+}
+.foot{
+    flex: 10;
+    background-color: lightblue;
+    flex-direction: column;
+    padding: 30px;
+    
+    
+}
